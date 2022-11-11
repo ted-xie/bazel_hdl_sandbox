@@ -1,0 +1,3 @@
+[submodule "bazel_rules_hdl"]
+	path = bazel_rules_hdl
+	url = https://github.com/hdl/bazel_rules_hdl
